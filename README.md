@@ -1,11 +1,11 @@
 
 ### Hi there 👋, chaithrareddy47
 #### Frontend Development
-![Frontend Development](![github-header-image](https://github.com/chaithrareddy47/chaithrareddy47/assets/142560987/97e4cd1d-5e7d-4633-814d-1da72b727dae))
+![github-header-image](https://github.com/chaithrareddy47/chaithrareddy47/assets/142560987/97e4cd1d-5e7d-4633-814d-1da72b727dae)
 
 I'm Chaithra Reddy, deeply passionate about web development and crafting innovative projects.
 
-Skills: REACT / JS / HTML / CSS
+# Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on *Developing a food application that utilizes real-time API integration from Swiggy * 
 - 🌱 I’m currently learning React.js / JavaScript 
@@ -20,10 +20,8 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/chaithrareddy47&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/chaithrareddy47/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/chaithrareddy47)  
 
 
 
-![github-header-image](https://github.com/chaithrareddy47/chaithrareddy47/assets/142560987/97e4cd1d-5e7d-4633-814d-1da72b727dae)
+
+
