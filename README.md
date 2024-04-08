@@ -1,7 +1,9 @@
 
 ### Hi there 👋, chaithrareddy47 , I'm Frontend Developer
 
-I'm Chaithra Reddy, deeply passionate about web development and crafting innovative projects.
+## I'm Chaithra Reddy, deeply passionate about web development and crafting innovative projects.
+
+
 ![github-header-image](https://github.com/chaithrareddy47/chaithrareddy47/assets/142560987/97e4cd1d-5e7d-4633-814d-1da72b727dae)
 
 
